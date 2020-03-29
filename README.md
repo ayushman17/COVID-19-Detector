@@ -34,7 +34,6 @@ In light of the ever-evolving Covid-19 situation, This project also contains an 
     <img src="images/3.jpg" alt="Logo">
   </a>
 
-To aid people by providing them knowledge through a Web Application has not been done yet.
 
 - The Objective is to Stop the transmission by prioritizing tests and hence detecting the cases quickly
 - Data can be collected on the symptoms of COVID-19
@@ -43,6 +42,7 @@ To aid people by providing them knowledge through a Web Application has not been
 - The same model can be used to find potential candidates for conducting random tests 
 
 To aid people by providing them knowledge through a Web Application has not been done yet.
+For more details you can see the Powerpoint Presentation in the repository. 
 
 
 ## Built With
