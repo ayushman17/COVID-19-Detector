@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14af7ffa-e78e-4150-ad81-183f404ce851" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/MEh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/coronavirus_img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/map.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Corona.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Corona.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HACKSAGON 2020.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/COVID-19 Detector.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/COVID-19 Detector.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/COVID-19 Detector.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +34,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -98,6 +87,7 @@
       <workItem from="1585400766572" duration="216000" />
       <workItem from="1585401190032" duration="1553000" />
       <workItem from="1585403351095" duration="43000" />
+      <workItem from="1585755123330" duration="305000" />
     </task>
     <servers />
   </component>
@@ -108,13 +98,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1585755426738">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1585755426738" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1585401502877">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1585401502877" />
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585403354792">
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585755373301">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585403354792" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585755373301" />
   </component>
 </project>
